@@ -1,0 +1,123 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+#pageHeader {
+	width: 960px;
+	height: 150px;
+	background-image: url(images/fotolia_pencils_opt.jpg);
+}
+#pageHeader h1 {
+	color: #F6DEC2;
+	text-align: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 4em;
+	text-shadow: 0px 0px 10px #602806;
+}
+#pageFooter {
+	text-align: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+
+
+body {
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+	height: 30px;
+	background-color: #CA9E7B;
+}
+#mainContent {
+	width: 960px;
+	height: 400px;
+	margin-left: 10px;
+	margin-right: 10px;
+	float: left;
+}
+#pageNav {
+	width: 960px;
+	/* [disabled]height: 30px; */
+	float: none;
+}
+#pageFooter {
+	width: 960px;
+	height: 50px;
+	border-top: medium solid #5A442F;
+	float: left;
+}
+
+
+#mainContent #contentArticle {
+	width: 570px;
+	/* [disabled]height: 400px; */
+	float: left;
+	margin-right: 10px;
+	background-image: url(../Templates/url);
+	padding-left: 5px;
+	padding-right: 5px;
+}
+#mainContent #contentArticle p {
+	padding-bottom: 5px;
+	padding-left: 10px;
+}
+
+#pageNav ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+#pageNav ul li {
+	float: left;
+}
+ul li a {
+	display: block;
+	color: #FFFFFF;
+	text-align: center;
+	padding-top: 14PX;
+	padding-right: 16PX;
+	padding-bottom: 14PX;
+	padding-left: 16PX;
+	text-decoration: none;
+}
+ul li a:hover  {
+	display: block;
+	color: #000000;
+	text-align: center;
+	padding-top: 14PX;
+	padding-right: 16PX;
+	padding-bottom: 14PX;
+	padding-left: 16PX;
+	text-decoration: none;
+	background-color: #A8664C;
+}
+
+
+
+#mainContent #contentAside {
+	width: 350px;
+	/* [disabled]height: 400px; */
+	float: left;
+	/* [disabled]background-color: #FFFFFF; */
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+#mainContent #contentAside p {
+	background-color: #FFFFFF;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 10px;
+	padding-bottom: 5px;
+}
+#mainContent #contentAside h2 {
+	background-color: #FFFFFF;
+	padding-left: 10px;
+	padding-top: 5px;
+}
+#pageFooter p {
+	padding-top: 5px;
+}

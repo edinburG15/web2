@@ -1,0 +1,13 @@
+@charset "utf-8";
+body p a {
+	color: #0F1778;
+}
+ul li a {
+	color: #22243B;
+}
+ul li a:hover  {
+	color: #7177C3;
+}
+body {
+	background-color: #B89F7F;
+}

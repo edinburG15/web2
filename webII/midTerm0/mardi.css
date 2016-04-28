@@ -1,0 +1,128 @@
+@charset "utf-8";
+#pageheader {
+	width: 960px;
+	height: 150px;
+	/* [disabled]background-color: #27302F; */
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-variant: normal;
+	font-size: 1em;
+	color: #000000;
+	text-align: left;
+	vertical-align: super;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding-left: 15px;
+	background-repeat: no-repeat;
+	float: left;
+	background-position: 0% 0%;
+}
+
+#pageheader p {
+	text-decoration: overline;
+	text-align: left;
+	/* [disabled]color: #C19849; */
+}
+body {
+	background-color: #B2B2B2;
+	margin-left: auto;
+	margin-right: auto;
+	width: 960px;
+}
+
+
+
+#pageheader img {
+	float: left;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+#pageMain {
+	width: 960px;
+	margin-top: 5px;
+	font-family: Papyrus, Parchment, sans-serif;
+	color: #123344;
+}
+#pageMain dt {
+	font-size: x-large;
+	font-weight: bold;
+}
+
+#pageMain #contentAside {
+	width: 150px;
+	float: left;
+	margin-left: 15px;
+	height: auto;
+}
+#contentAside nav img {
+	margin-top: 5px;
+	margin-left: 5px;
+}
+
+#pageMain #mainArticle {
+	width: 740px;
+	margin-right: 5px;
+	padding-top: 15px;
+	padding-left: 15px;
+	padding-bottom: 15px;
+	padding-right: 15px;
+	margin-left: 15px;
+	display: inline-block;
+	float: left;
+	height: auto;
+}
+#pageFooter p a {
+	color: #98218D;
+}
+
+#pageMain h1 {
+	color: #236180;
+	font-family: Papyrus, Parchment, sans-serif;
+}
+
+
+
+#pageFooter {
+	width: 960px;
+	float: left;
+	margin-top: 5px;
+	text-align: center;
+	color: #98218D;
+	padding-top: 5px;
+	height: auto;
+}
+
+nav p a {
+	text-decoration: none;
+	text-align: center;
+	display: block;
+	background-color: #847F74;
+	min-width: 150px;
+	float: left;
+	/* [disabled]clear: both; */
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	color: #409CD8;
+}
+
+nav p a:hover {
+	background-color: #27A6D4;
+	color: #FFFFFF;
+}
+#mainArticle #contact input {
+	padding-left: 2px;
+	padding-top: 2px;
+	padding-right: 2px;
+	padding-bottom: 2px;
+	color: #847F74;
+	text-transform: uppercase;
+	background-color: #FFFFFF;
+}
+#mainArticle p img {
+	float: left;
+	margin-right: 15px;
+	margin-left: 5px;
+}

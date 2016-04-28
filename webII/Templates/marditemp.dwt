@@ -1,0 +1,53 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Texas Mardi Gras: Index</title>
+<link href="../midTerm0/mardi.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<header id="pageheader">
+<!-- TemplateBeginEditable name="EditRegion2" --><img src="../midTerm0/images/TMGLOGO.jpg" width="150" height="150" alt="logo"/><!-- TemplateEndEditable -->
+<img src="../midTerm0/images/blue1.jpg" width="778" height="144" alt=""/>
+  <h1></h1>
+  
+</header>
+<main id="pageMain">
+  <aside id="contentAside">
+  	<nav>
+      <p><a href="../midTerm0/index.html" target="_blank">Home</a></p>
+      <p><a href="../midTerm0/attract.html">Attractions</a></p>
+      <p><a href="../midTerm0/gallery.html">More Info</a></p>
+      <p><a href="../midTerm0/contact.html">Contact</a></p>
+    <img src="../midTerm0/images/mime150.jpg" width="150" height="142" alt=""/> </nav>  
+  </aside>
+  <!-- TemplateBeginEditable name="EditRegion1" -->
+  <article id="mainArticle">
+    <h1>About Us </h1>
+    <p>Since our founding 23 years ago, with the purchase of a state-of-the-art Ferris, the company has enjoyed tremendous success. The Caruso brothers, our experienced and insightful leaders, bring a lifetime of carnival operations knowledge to each and every one of our engagements. The integrity and reliability of our operations, built over a lifetime, is testified to by our decades long relationship with many of North America's largest and oldest events.  Our route stretches from across the Texas Gulf Coast to West Texas and the South Plains.</p>
+     <h2>ADDITIONAL INFORMATION</h2>
+<h3>Learn the lingo</h3>
+<p>Here are a few basic terms you'll want to know before you don a mask and head out for your first Carnival experience.</p>
+<dl>
+<dt>Mardi Gras.</dt>
+	<dd> This is French for "Fat Tuesday," a reference to the fact that Mardi Gras always is the day before Ash Wednesday, the beginning of Lent in the Catholic faith. Because the 40 days of Lent are considered a somber period of sacrifice, Fat Tuesday is seen by many as an appropriate time for indulgence and festivity – a last chance at revelry. Nowhere in the United States is Mardi Gras celebrated as it is in Louisiana.</dd>
+<dt>Carnival.</dt>
+	<dd> This word is not interchangeable with "Mardi Gras." Carnival refers to the whole period of time leading up to Fat Tuesday. The Carnival season officially begins on the Feast of the Epiphany. This date is also known as Twelfth Night (12 days after Christmas). Festivities kick off on a small scale at this time, then gradually pick up steam, peaking with many parades, balls and parties on the final two weekends before Mardi Gras.</dd>
+<dt>Krewe.</dt>
+	<dd> This is a Carnival organization made up of members who plan and carry out the various themed parades and balls. The Krewe of Rex, for instance, honors the "king" of Carnival and stages a spectacular, traditional parade on Mardi Gras, along with an elaborate ball later that night. In keeping with the "mystical" tradition of Carnival, some of the oldest krewes keep their membership shrouded in secrecy. This is why  krewes require members to wear masks during parades. (Wearing masks and costumes is also part of the fun for everyone else.) In addition to their Carnival activities, many krewes also participate in charitable efforts throughout the year.</dd>
+    <dt>Parade.</dt>
+    	<dd> OK, everybody knows what this is, but if you haven't seen a Mardi Gras parade, well, you haven't really seen a parade. For New Orleans parades, krewes build huge, elaborate floats that carry riders who may number in the dozens. The spectacle of these events is something to behold, and spectators get a bonus thrill as float riders toss loads of colorful trinkets along the way.</dd>
+    <dt>Throws.</dt>
+    	<dd> We call the parade trinkets "throws." The most common throws are strings of plastic beads that parade goers love to collect and wear around their necks as "trophies" from their parade experience. Each krewe usually also throws medallions, small toys or plastic cups imprinted with the krewe logo.</dd> 
+<dt>Purple, green and gold.</dt>
+<dd> These are the "official" colors of Mardi Gras, and you'll see them everywhere. According to some Carnival historians, purple represents justice, green, faith, and gold, power.</dd>
+<dt>King Cake.</dt>
+<dd> You'll want to sample this Carnival tradition for sure. Sweet dough twisted and shaped into an oblong is heavily decorated with icing and purple, green and gold sugar crystals. King cake is actually more bread than cake. Be alert: By tradition, a plastic baby is "hidden" in every king cake, and if you happen to find it in your slice, you are responsible for providing the next king cake for the party! Add this king cake recipe to your celebrations.</dd>
+  </article>
+  <!-- TemplateEndEditable --></main>
+<footer id="pageFooter">
+<p>Texas Mardi Gras Entertainment Company <br>&copy; 2016</p>
+		<p> <a href="#">Home</a> ||  <a href="#">Attractions</a> ||  <a href="#">Photo Gallery</a> ||  <a href="#">Contacts</a> </footer>
+</body>
+</html>

@@ -1,0 +1,52 @@
+@charset "utf-8";
+#pageHeader h1 {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	text-align: center;
+	color: #70292A;
+	font-style: italic;
+	font-weight: normal;
+	text-decoration: none;
+	border-bottom-width: medium;
+	border-bottom-style: double;
+	padding-bottom: 20px;
+}
+#pageMain{
+	color: #524026;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	line-height: 1.5em;
+	border-width: 0px 0px thin;
+	border-style: none none solid;
+	
+
+}
+#pageMain h1 a {
+	text-decoration: none;
+	color: #524026;
+}
+#pageMain h1 a:hover {
+	text-decoration: underline;
+	color: #AE9451;
+	background-color: #524026;
+}
+
+
+#pageMain p .crazy {
+	color: #880626;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#pageFooter p {
+	text-align: center;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+	font-style: italic;
+	font-size: small;
+	line-height: 0em;
+}
+body {
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 960px;
+	color: #524026;
+	background-color: #AE9451;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+}
