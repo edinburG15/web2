@@ -1,0 +1,77 @@
+@charset "utf-8";
+
+
+body {
+	width: 960px;
+	background-color: #66A3EB;
+	left: auto;
+	position: relative;
+}
+#pageHeader {
+	width: 960px;
+	height: 150px;
+}
+#pageNav {
+	width: 960px;
+	height: 30px;
+	/* [disabled]display: block; */
+	/* [disabled]-webkit-box-sizing: border-box; */
+	/* [disabled]-moz-box-sizing: border-box; */
+	/* [disabled]box-sizing: border-box; */
+	padding: 3px;
+	-webkit-box-shadow: 0px 0px #485976;
+	box-shadow: 0px 0px #485976;
+	text-align: center;
+	background-color: #0A4387;
+}
+#pageNav a {
+	display: inline-block;
+	-webkit-box-sizing: content-box;
+	-moz-box-sizing: content-box;
+	margin: 3px;
+	box-sizing: content-box;
+	width: 50px;
+	text-align: center;
+	max-height: none;
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #070E42;
+}
+#pageNav a:hover  {
+	display: inline-block;
+	-webkit-box-sizing: content-box;
+	-moz-box-sizing: content-box;
+	margin: 3px;
+	box-sizing: content-box;
+	width: 50px;
+	text-align: center;
+	max-height: none;
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #FFFFFF;
+	background-color: #010736;
+}
+
+
+#pageMain #asideContent {
+	width: 290px;
+	margin-top: 5px;
+	margin-right: 5px;
+	margin-left: 5px;
+	margin-bottom: 5px;
+	float: left;
+	height: 400px;
+}
+#pageMain #mainArticle {
+	width: 650px;
+	margin: 5px;
+	float: left;
+	height: 400px;
+}
+#pageFooter {
+	width: 960px;
+	height: 50px;
+	float: left;
+	text-align: center;
+	background-color: #0A4387;
+}
